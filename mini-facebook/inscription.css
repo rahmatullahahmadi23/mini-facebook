@@ -1,0 +1,86 @@
+body{
+    font-family: 'Aref Ruqaa', serif;
+    background-color: rgb(159, 145, 241,1)
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#myButton{
+    width: 150px;
+    font-size: 30px;
+    padding: auto;
+    background-color: yellow;
+    margin: 8px;
+
+}
+h1{
+    text-align: center;
+    font-size: 65px;
+    padding: 15px;
+}
+.inscription{
+    width: 700px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-size: 18px;
+    border: 1px solid gray;
+
+}
+#inscription{
+    margin-left: 50px;
+}
+label{
+    color: whitesmoke;
+    font-family: 'Aref Ruqaa', ;
+    font-size: 18px;
+    font-style: italic;
+    margin-bottom: 30px;
+}
+#select{
+    font-family: 'Aref Ruqaa', serif;
+    font-size: 17px;
+    font-style: italic;
+    width: 170px;
+    padding: auto;
+    border: none;
+    border-radius: 2px;
+    outline: 0;
+}
+.text{
+    width: 150px;
+}
+
+
+
+#select_option{
+    position: absolute;
+    left: 65%;
+}
+
+#ami > p {
+    margin-top: 10px;
+    background: #ab9cff;
+    width: 606px;
+}
+
+.submit_buttons {
+    border: 1px solid #9f91f1;
+    height: 40px;
+    padding: 10px;  
+    margin-left: 30px;   
+    margin-top: 10px;    
+    border-radius: 5px;
+
+}
+.submit_buttons:hover {
+    border: 1px solid #9f91f1;
+    height: 40px;
+    padding: 10px;  
+    margin-left: 30px;   
+    margin-top: 10px;    
+    border-radius: 5px;
+    cursor: pointer;
+}

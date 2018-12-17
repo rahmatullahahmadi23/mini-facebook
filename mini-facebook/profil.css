@@ -1,0 +1,116 @@
+body{
+    font-family: 'Aref Ruqaa', serif;
+    background-color: rgb(159, 145, 241);
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+    color: antiquewhite;
+}
+
+.NomPos{
+    font-size: 35px;
+    margin-left: 100px;
+    display: inline;
+}
+.prenomPos{
+    display: inline;
+    margin-left: 60px;
+}
+img {
+    width: 200px;
+    margin-left: 80%;
+    margin-top: 5px;
+}
+
+.divTopLeft{
+    float: left;
+    width: 80%;
+}
+
+.divTopRight{
+    float: right;
+    width: 20%;
+}
+
+.alignleft{
+    display: inline-block;
+    width: 40%;
+    margin-left: 30px;
+}
+
+.alignright{
+    width: 40%;
+    float: right;
+    text-align: left;
+}
+
+.grosTitre{
+    font-size: 50px;
+}
+.daTa{
+    font-size: 30px;
+}
+.buttonSize{
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 30px;
+    background-color: rgb(81, 81, 245);
+    color: rgb(116, 236, 220);
+}
+#buttonVoirProfil{
+    font-size: 15px;
+    margin-left: 25px;
+    background-color: rgb(81, 81, 245);
+    color: rgb(116, 236, 220);
+}
+.song{
+    font-size: 30px;
+    
+}
+.diver{
+    font-size: 20px;
+}
+
+/*
+img {
+    display: block;
+    position: absolute;
+    top: 80px;
+    right: 80px;
+    border: 5px solid rgb(107, 53, 2);
+    border-radius: 4px;
+    padding: 5px;
+    width: 200px;
+}
+#textbox{
+    font-size: 50px;
+}
+
+.divTop{
+    width: 600px;
+
+}
+.alignleft {
+    float: left;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.alignright {
+    float: right;
+    margin-right: 600px;
+    margin-top: 50px;
+}
+#place{
+    font-size: 30px;
+}
+.date{
+    margin-left: 100px;
+    margin-top: 200px;
+}
+.situation{
+    margin-left: 100px;
+    margin-top: 200px;
+}
+*/
